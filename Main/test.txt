@@ -1,0 +1,15 @@
+1680spring
+
+Mindell
+|_Main(Master)
+|_Development
+| |_<Branch>
+| |_<Branch>
+| |_...
+|_Release
+  |_1.0<Branch>
+  | |_Patch_0001<Branch>
+  | |_Patch_0002<Branch>
+  |_1.1<Branch>
+    |_Patch_0001<Branch>
+    |_Patch_0002<Branch>
